@@ -6,3 +6,4 @@
 ![Image text](https://github.com/fpeanut/HaiKangCamera/blob/main/img/1.jpg)<br>
 软件界面：<br>
 ![Image text](https://github.com/fpeanut/HaiKangCamera/blob/main/img/2.jpg)<br>
+![Image text](https://github.com/fpeanut/HaiKangCamera/blob/main/img/3.jpg)<br>
