@@ -19,3 +19,4 @@
 	void initCam();<br>
   //5.采集图像<br>
 	void GrapImg();<br>
+  
